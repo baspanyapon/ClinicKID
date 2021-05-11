@@ -1,0 +1,8 @@
+product_list = หน้าแสดงรายชื่อยา
+product_detail = ข้อมูลยา
+product_add = เพิ่มข้อมูลยา
+patient_list = หน้าแสดงรายชื่อคนไข้
+patient_detail = ข้อมูลคนไข้
+patient_add = เพิ่มข้อมูลคนไข้
+from_checkpatient = หน้าแสดงผล ยา ราคา และ จำนวน
+check_detail = หน้าแสดงผล ยา ราคา และ จำนวน ให้คนไข้
